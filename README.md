@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=🚀+Live+on+Vercel;Click+to+Open+Website)](https://sammunat-landing-orpin.vercel.app/)
